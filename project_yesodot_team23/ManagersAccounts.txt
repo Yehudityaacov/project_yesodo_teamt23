@@ -1,0 +1,14 @@
+manager
+~
+firstName: Tal
+lastName: Malka
+ID: 201483302
+password: 72117
+~
+editor
+~
+firstName: Judit
+lastName: Jaacov
+ID: 201874328
+password: 4817
+~

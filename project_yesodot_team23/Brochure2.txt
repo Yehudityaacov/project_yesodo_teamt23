@@ -1,0 +1,176 @@
+~
+station: Ofakim b
+city: Ofakim
+street: yogev 19
+tel: 089922622
+~
+station: Ofakim g
+city: Ofakim
+street: hefezh haim 22
+tel: 089922621
+~
+station: Giora
+city: Or yehuda
+street: david elazar 21
+tel: 035387222
+~
+station: Orim
+city: Orim
+street: Moving mail Hanegev
+tel: 089920211
+~
+station: Hadekel
+city: Eilat
+street: barnea
+tel: 086341071
+~
+station: Shacmon
+city: Eilat
+street: hanevatim 20
+tel: 086317236
+~
+station: Ariel
+city: Ariel
+street: harava 1
+tel: 039065050
+~
+station: Ashdod a
+city: Ashdod
+street: shavi zion 14
+tel: 088523739
+~
+station: Ashdod d
+city: Ashdod
+street: hasyitim 14
+tel: 088551181
+~
+station: Ashdod v
+city: Ashdod
+street: haim huri 5
+tel: 088553707
+~
+station: Barnea
+city: Ashkelon
+street: kiryati 9
+tel: 086717770
+~
+station: Neva dkalim
+city: Ashkelon
+street: eksodos 12
+tel: 086780176
+~
+station: Hyuval
+city: Ashkelon
+street: haim sela 10
+tel: 086748222
+~
+station: Merkaz breiuth tal
+city: Beer tovia
+street: Post Beer tovia
+tel: 088581008
+~
+station: Beer yaacov
+city: Beer yaacov
+street: yehuda 6
+tel: 089282168
+~
+station: Tachana g
+city: Beer sheva
+street: vingeate 8
+tel: 086233875
+~
+station: Tachana v
+city: Beer sheva
+street: hoverman 7
+tel: 086433511
+~
+station: Tachana t
+city: Beer sheva
+street: jerusalem 32
+tel: 086109243
+~
+station: Neva zeav
+city: Beer sheva
+street: yuana zabotinski 30
+tel: 086416622
+~
+station: Landao
+city: Bnei brak
+street: landao yaacov 4
+tel: 035704098
+~
+station: Benimina
+city: Benimina
+street: hatsmahot 90
+tel: 0777801427
+~
+staion: Gilad
+city: Bat yam
+street: balfor 152
+tel: 035526771
+~
+station: Mapilim
+city: Bat yam
+street: mapilim 16
+tel: 035073079
+~
+station: Gevim
+city: Gevim
+street: Moving mail Negev
+tel: 086802100
+~
+station: Gevat zeav
+city: Gevat zeav
+street: hamakbim 48
+tel: 025360336
+~
+station: Gadera
+city: Gadera
+street: vaizman 8
+tel: 088593322
+~
+station: Gan yavne
+city: Gan yavne
+street: herzhel 41
+tel: 088574131
+~
+station: Hod hashron
+city: Hod hashron
+street: habanim 14
+tel: 097469266
+~
+station: Herzog
+city: Herzelia
+street: sokolov 10
+tel -0999721300
+~
+station: Bialik
+city: Hadera
+street: bialik 33
+tel: 0777501923
+~
+station: Resko
+city: Holon
+street: akiva 4
+tel: 035586873
+~
+station: Tachana a
+city: Tveria
+street: hmeginim
+tel: 046724357
+~
+station: Tachana v
+city: Tveria
+street: abuchzera
+tel: 046796182
+~
+station: Neot askol
+city: Yavne
+street: abuchzera 1
+tel: 089436565
+~
+station: Yahud
+city: Yahud
+street: herzel 24
+tel: 035365626
+~
